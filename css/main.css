@@ -32,10 +32,6 @@ img {
   filter: contrast(120%); ;
 }
 
-img[alt="Banner Kitten"] {
-  role: img;
-}
-
 .main-nav ul {
   list-style: none;
   display: flex;
