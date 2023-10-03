@@ -20,9 +20,20 @@ h6 {
   padding: 0 1rem;
 }
 
+.skip-links {
+  position: absolute;
+  padding: 0;
+  height: 1%;
+  width: 1%;
+}
+
 img {
   width: 100%;
-  filter: contrast(90%) ;
+  filter: contrast(120%); ;
+}
+
+img[alt="Banner Kitten"] {
+  role: img;
 }
 
 .main-nav ul {
